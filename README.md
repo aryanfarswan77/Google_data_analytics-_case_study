@@ -13,16 +13,23 @@ The marketing team at Cyclistic wants to understand how casual riders and annual
 
 ---
 ## 📎 Datasets used:
-https://shorturl.at/TcAK3 and https://shorturl.at/fnZZ7
+- 📊 ** Dataset – 2019:** [View on Google Sheets](https://docs.google.com/spreadsheets/d/1uCTsHlZLm4L7-ueaSLwDg0ut3BP_V4mKDo2IMpaXrk4/template/preview?resourcekey=0-dQAUjAu2UUCsLEQQt20PDA#gid=1797029090)
+- 📊 ** Dataset – 2020:** [View on Google Sheets](https://docs.google.com/spreadsheets/d/179QVLO_yu5BJEKFVZShsKag74ZaUYIF6FevLYzs3hRc/template/preview#gid=640449855)
+
 
 ## 📂 Project Structure
--  Cleaned datasets (2019 & 2020)
 -  Screenshots of Excel dashboards
 -  Final business report (Word)
 - ` Final PPT presentation
 - `README.md`: This file
 
 ---
+🔗 Access  Cleaned Datasets
+Due to file size limitations, the cleaned datasets is hosted on Google Drive:
+
+- 📊 **Cleaned Dataset – 2019:** [View on Google Sheets](https://docs.google.com/spreadsheets/d/1deiBFxfEJyijc4NMNFMtNk_7VcNOyFBq/edit?usp=sharing)
+- 📊 **Cleaned Dataset – 2020:** [View on Google Sheets](https://docs.google.com/spreadsheets/d/1UTGzJv1GUmu-xK5Sb6ATyV7Vc_zwAQoR/edit?usp=sharing)
+ 
 
 ## 🔍 Key Questions
 
