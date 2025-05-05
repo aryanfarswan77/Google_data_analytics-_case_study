@@ -13,8 +13,10 @@ The marketing team at Cyclistic wants to understand how casual riders and annual
 
 ---
 ## 📎 Datasets used:
-- 📊 ** Dataset – 2019:** [View on Google Sheets](https://docs.google.com/spreadsheets/d/1uCTsHlZLm4L7-ueaSLwDg0ut3BP_V4mKDo2IMpaXrk4/template/preview?resourcekey=0-dQAUjAu2UUCsLEQQt20PDA#gid=1797029090)
-- 📊 ** Dataset – 2020:** [View on Google Sheets](https://docs.google.com/spreadsheets/d/179QVLO_yu5BJEKFVZShsKag74ZaUYIF6FevLYzs3hRc/template/preview#gid=640449855)
+
+- 🔹 **Original Dataset – 2019:** [Google Sheets Link](https://docs.google.com/spreadsheets/d/1uCTsHlZLm4L7-ueaSLwDg0ut3BP_V4mKDo2IMpaXrk4/template/preview?resourcekey=0-dQAUjAu2UUCsLEQQt20PDA)
+- 🔹 **Original Dataset – 2020:** [Google Sheets Link](https://docs.google.com/spreadsheets/d/179QVLO_yu5BJEKFVZShsKag74ZaUYIF6FevLYzs3hRc/template/preview)
+
 
 
 ## 📂 Project Structure
