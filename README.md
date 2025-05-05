@@ -21,6 +21,7 @@ The marketing team at Cyclistic wants to understand how casual riders and annual
 
 ## 📂 Project Structure
 -  Screenshots of Excel dashboards
+-  Buisness requirement document
 -  Final business report (Word)
 - ` Final PPT presentation
 - `README.md`: This file
